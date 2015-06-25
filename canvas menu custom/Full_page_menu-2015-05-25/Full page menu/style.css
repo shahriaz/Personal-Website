@@ -18,7 +18,7 @@
 .full_page_nav ul li {
     list-style: outside none none;
     display: block;
-    font-size: 18px;
+    font-size: 19px;
     text-align: center;
 }
 
@@ -37,5 +37,5 @@
 		background-color:#333;
 		overflow:hidden;
 		animation: 5s ease;
-		}
+		} 
 		
