@@ -1,0 +1,18 @@
+.sidenav{height:100%;
+		  width:100%;
+		  background-color:red;
+		  position:fixed;
+		  overflow:hidden;}
+		  
+.wrapper{position:relative;
+			height:100%;
+			background-color:lightgreen;
+			overflow-x:hidden;
+			margin-left:0;
+			transition:all ease 0.3s;}
+	   
+.wrapper_toggle{position:relative;
+		   height:100%;
+		   background-color:lightblue;
+		   margin-left:250px;
+		   overflow-x:hidden;}
